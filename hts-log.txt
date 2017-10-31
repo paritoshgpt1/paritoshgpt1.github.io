@@ -1,0 +1,30 @@
+HTTrack3.49-2 launched on Sun, 29 Oct 2017 10:55:25 at http://themes.khaitawng.com/Branten/index.html
+(winhttrack http://themes.khaitawng.com/Branten/index.html -W -O "/Users/RajatSharma/websites/test" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:55:28	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/robots.txt (from primary/primary)
+10:56:25	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.eot (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:27	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.eot? (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:29	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.woff2 (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:29	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.woff (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:30	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.ttf (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:31	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.svg (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:33	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.eot (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:33	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.eot? (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:33	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.woff2 (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:34	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.woff (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:35	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.ttf (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:35	Warning: 	Retry after error 500 (Internal Server Error) at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.svg (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:36	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.eot (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:36	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.eot? (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:36	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.woff2 (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:36	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.woff (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:36	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.ttf (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+10:56:36	Error: 	"Internal Server Error" (500) after 2 retries at link themes.khaitawng.com/Branten/fonts/glyphicons-halflings-regular.svg (from themes.khaitawng.com/Branten/css/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 11 seconds : 49 links scanned, 30 files written (1556191 bytes overall) [1251075 bytes received at 17620 bytes/sec], 506154 bytes transferred using HTTP compression in 17 files, ratio 36%, 6.1 requests per connection
+(7 errors, 12 warnings, 0 messages)
